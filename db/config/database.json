@@ -1,7 +1,7 @@
 {
   "development": {
-    "username": "vasya",
-    "password": "2830",
+    "username": "YOUR USERNAME",
+    "password": "YOUR_PASSWORD",
     "database": "Codex-test",
     "host": "127.0.0.1",
     "dialect": "postgres"
